@@ -1,4 +1,4 @@
-Hi, I’m Joe. I’m currently learning JavaScript via the Jonas Schmedtman course on Udemy.
+Hi, I’m Joe. I'm currently trying to improve at Bash and Python. 
 
 
 <!---
