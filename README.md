@@ -1,4 +1,4 @@
-Hi, I’m Joe. I'm currently trying to improve at Bash and Python. 
+Hi, I’m Joe. I'm currently trying to improve at Python, JavaScript and MySQL
 
 
 <!---
